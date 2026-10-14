@@ -1,0 +1,8 @@
+{
+  "name": "matrixAI",
+  "description": "High-tech AI interface featuring Matrix Lite, Matrix Base, web search grounding, and image vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
